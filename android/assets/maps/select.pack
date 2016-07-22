@@ -1,0 +1,68 @@
+
+select.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lv1
+  rotate: false
+  xy: 1, 1
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+lv2
+  rotate: false
+  xy: 83, 1
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+lv3
+  rotate: false
+  xy: 165, 1
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+lv4
+  rotate: false
+  xy: 247, 1
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+lv5
+  rotate: false
+  xy: 329, 1
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+lv6
+  rotate: false
+  xy: 411, 1
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+lv7
+  rotate: false
+  xy: 493, 1
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+lv8
+  rotate: false
+  xy: 575, 1
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
+lv9
+  rotate: false
+  xy: 657, 1
+  size: 80, 91
+  orig: 80, 91
+  offset: 0, 0
+  index: -1
